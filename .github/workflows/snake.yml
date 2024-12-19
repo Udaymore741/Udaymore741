@@ -6,8 +6,7 @@ on:
 
   # Schedule the workflow to run daily at midnight UTC
 
-  schedule
-:
+  schedule:
 
     - cron: "0 0 * * *"
 
@@ -51,8 +50,7 @@ jobs:
 
       # Step 2: Generate the snake animations
 
-      - name: Generate GitHub Contributions
- Snake Animations
+      - name: Generate GitHub Contributions Snake Animations
 
         uses: Platane/snk@v3
 
