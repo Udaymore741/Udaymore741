@@ -1,38 +1,93 @@
 <h1 align="center">Hi 👋, I'm Uday More</h1>
-<h3 align="center">A passionate Computer Science Student....!</h3>
+<h3 align="center">🚀 AI + Full Stack Developer | MERN | Data & Automation Enthusiast</h3>
 
-<img align="right" alt="Mario" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaymore741&label=Profile%20views&color=0e75b6&style=flat" alt="udaymore741" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=udaymore741&label=Profile%20views&color=0e75b6&style=flat" alt="udaymore741" /> 
+</p>
 
-- 🌱 I’m currently learning **MERN Stack**
+---
 
-- 💬 Ask me about **MongoDB, React.js, Node.js,Node.js**
+### 👨‍💻 About Me
+- 🎓 Computer Science Engineer (CGPA: **8.7+**)
+- 🔥 Building **AI-powered + Full Stack applications**
+- ⚡ Strong in **MERN Stack, APIs, and Data Processing**
+- 🧠 Exploring **LLMs, Automation & Scalable Systems**
+- 🏆 **3rd Place – WebTopia UI/UX (National Level)**
+- 💡 Solved **200+ DSA problems on LeetCode**
 
-- 📫 How to reach me **udaymore742@gmail.com**
+---
 
--  Visit My Portfolio **https://uday-more-portfolio.netlify.app/**
+### 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
+#### 🔹 SkillSync.io (AI-Powered Open Source Matchmaker)
+- 🧠 Uses **embeddings + GitHub API** to recommend issues
+- 📊 Analyzes developer skills & contribution patterns
+- ⚙️ Built with **MERN + Python + AI logic**
+
+#### 🔹 Campus-Connect (Real-Time Q&A Platform)
+- 💬 Real-time chat using **Socket.io**
+- 🔐 Secure authentication with **JWT**
+- 📈 Scalable backend APIs with **Node.js**
+
+#### 🔹 SPARTAN AI (Multi-Model AI Platform)
+- 🤖 Integrated **GPT, Gemini, Claude, Mistral**
+- ⚡ Real-time streaming + memory optimization
+- 🔐 Secure architecture with modern backend systems
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+`Python` `JavaScript` `Java`
+
+#### 🌐 Web & Backend
+`React.js` `Node.js` `Express.js` `REST APIs` `JWT`
+
+#### 🤖 AI & Data
+`LLM Integration` `Prompt Engineering` `Pandas` `NumPy` `SQL`
+
+#### 🗄️ Databases
+`MongoDB` `MySQL`
+
+#### ⚙️ Tools & Platforms
+`Git` `GitHub` `Docker (Basics)` `AWS (EC2, S3)` `Jenkins`
+
+---
+
+### 🌐 Connect With Me
 <p align="left">
-<a href="https://twitter.com/udaymore_741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udaymore_741" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/udaymore741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udaymore741" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/uday-741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uday-741" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/udaymore741" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://github.com/Udaymore741" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://leetcode.com/u/UDAY-741/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+📫 Email: **udaymore742@gmail.com**  
+🌐 Portfolio: **https://uday-more-portfolio.netlify.app/**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udaymore741&show_icons=true&locale=en&layout=compact" alt="udaymore741" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaymore741&show_icons=true&locale=en" alt="udaymore741" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaymore741&" alt="udaymore741" /></p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udaymore741/udaymore741/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udaymore741/udaymore741/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/udaymore741/udaymore741/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=udaymore741&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaymore741&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udaymore741&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/udaymore741/udaymore741/output/github-snake.svg" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+💡 I love building **real-world impactful systems** — from AI tools to full-stack platforms that solve actual problems.
